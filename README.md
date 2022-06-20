@@ -1,4 +1,4 @@
-                                                          Hello👋 I'm Aditya Aryan Sharma
+                                                      Hello👋 I'm Aditya Aryan Sharma
 
 ● 🧑‍🎓 I’m currently a CSE student at [IIIT Delhi](https://www.iiitd.ac.in/)
 
@@ -25,6 +25,6 @@
 <a href =""><img align = "left" src = "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height = 40></a>
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Aryan-Sharma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[comment]:<-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Aryan-Sharma&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Aditya-Aryan-Sharma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
