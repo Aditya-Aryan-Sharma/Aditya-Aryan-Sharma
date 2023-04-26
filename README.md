@@ -4,7 +4,7 @@
 
 ● 🔭 I’m currently working with Java, Python & C
 
-● 🌱 I’m currently learning Reinforcement Learning
+● 🌱 I’m currently learning Deep Learning
 
 ● 👯 I’m looking to collaborate on Ethical Hacking
 
