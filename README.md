@@ -2,7 +2,7 @@
 
 ● 🧑‍🎓 I’m currently a CSE student at [IIIT Delhi](https://www.iiitd.ac.in/)
 
-● 🔭 I’m currently working with Java, Python & C
+● 🔭 I’m currently working with Java, Python & C++
 
 ● 🌱 I’m currently learning Deep Learning
 
